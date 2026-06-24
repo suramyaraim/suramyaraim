@@ -51,11 +51,3 @@ I build and maintain cloud-native infrastructure, CI/CD platforms, Kubernetes en
 - AWS Architecture
 
 ---
-
-## 📫 Connect
-
-LinkedIn:
-www.linkedin.com/in/suramya-rai-m-7908781b6
-
-Email:
-suramyarai2002@gmail.com

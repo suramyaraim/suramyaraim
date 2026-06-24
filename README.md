@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Suramya Rai
 
-<!--
-**suramyaraim/suramyaraim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## DevOps Engineer | Kubernetes | AWS | GitHub Actions | Jenkins
 
-Here are some ideas to get you started:
+I build and maintain cloud-native infrastructure, CI/CD platforms, Kubernetes environments, observability stacks, and security monitoring solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+### Cloud
+- AWS
+- Linux Servers
+- VPS Infrastructure
+
+### Containers & Orchestration
+- Docker
+- Kubernetes
+- Helm
+
+### CI/CD
+- Jenkins
+- GitHub Actions
+- Git
+
+### Monitoring
+- Grafana
+- Prometheus
+- Loki
+- Tempo
+- OpenTelemetry
+
+### Security
+- Wazuh
+- Suricata
+- TheHive
+- Fail2Ban
+
+### Networking
+- NGINX
+- Kong Gateway
+
+---
+
+## 📈 Current Focus
+
+- Terraform
+- GitOps (ArgoCD)
+- Platform Engineering
+- Kubernetes Security
+- AWS Architecture
+
+---
+
+## 📫 Connect
+
+LinkedIn:
+www.linkedin.com/in/suramya-rai-m-7908781b6
+
+Email:
+suramyarai2002@gmail.com

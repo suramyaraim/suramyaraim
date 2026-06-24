@@ -38,7 +38,6 @@ I build and maintain cloud-native infrastructure, CI/CD platforms, Kubernetes en
 ### Networking
 - NGINX
 - Kong Gateway
-
 ---
 
 ## 📈 Current Focus
@@ -49,7 +48,6 @@ I build and maintain cloud-native infrastructure, CI/CD platforms, Kubernetes en
 - Kubernetes Security
 - AWS Architecture
 - Helm
-- 
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suramyaraim&show_icons=true)
@@ -57,3 +55,7 @@ I build and maintain cloud-native infrastructure, CI/CD platforms, Kubernetes en
 ![GitHub Streak](https://streak-stats.demolab.com?user=suramyaraim)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suramyaraim&layout=compact)
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,linux,nginx,prometheus,grafana,python,git" />
+</p>

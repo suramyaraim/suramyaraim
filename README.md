@@ -188,6 +188,15 @@ ArgoCD-based deployment automation and environment management.
 
 ---
 
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img alt="snake eating contributions"
+       src="https://raw.githubusercontent.com/suramyaraim/suramyaraim/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## Professional Interests
 
 * Cloud Infrastructure

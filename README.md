@@ -16,7 +16,6 @@ I build and maintain cloud-native infrastructure, CI/CD platforms, Kubernetes en
 ### Containers & Orchestration
 - Docker
 - Kubernetes
-- Helm
 
 ### CI/CD
 - Jenkins
@@ -49,5 +48,12 @@ I build and maintain cloud-native infrastructure, CI/CD platforms, Kubernetes en
 - Platform Engineering
 - Kubernetes Security
 - AWS Architecture
-
+- Helm
+- 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suramyaraim&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=suramyaraim)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suramyaraim&layout=compact)
